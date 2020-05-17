@@ -1,4 +1,4 @@
-module github.com/degiple/go-samples/api-server-echo
+module github.com/degiple/go-samples/api-server/echo
 
 go 1.14
 
