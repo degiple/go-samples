@@ -17,6 +17,7 @@ func main() {
 
 	// Routes
 	e.GET("/", hello)
+	e.GET("/hello", hello)
 
 	// Start server
 	e.Logger.Fatal(e.Start(":1323"))

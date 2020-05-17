@@ -1,5 +1,5 @@
-module github.com/degiple/go-samples/api-server/echo
+module github.com/degiple/go-samples/web/echo
 
-go 1.14
+go 1.12
 
 require github.com/labstack/echo/v4 v4.1.16
